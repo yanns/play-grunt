@@ -1,0 +1,1 @@
+- trigger "npm install" when the file "ui/node_modules/.bin/grunt" does not exist
