@@ -1,1 +1,3 @@
 - trigger "npm install" when the file "ui/node_modules/.bin/grunt" does not exist
+- separate Grunt and Npm
+- replace grunt and npm commands with sbt tasks?

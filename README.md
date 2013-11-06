@@ -10,10 +10,13 @@ The JavaScript application is completely separated from the Play! application.
 It is possible to build the JavaScript application separately.
 
 
-Requirements:
+Requirements
+============
 - npm must be installed.
 
-Steps:
+
+First Steps
+===========
 
 1. Start the play console (with 'play' or 'sbt')
 
@@ -40,3 +43,10 @@ Then Grunt is watching for modifications and compiles again when necessary.
 4. Open the index page http://localhost:9000/
 
 The JavaScript file "ui/src/play-grunt.js" should display "Grunt is integrated" on the page.
+
+
+
+Functions
+=========
+- integrate grunt build with play 'run' command
+- integrate grunt build with play 'stage' command
