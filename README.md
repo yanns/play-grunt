@@ -2,8 +2,8 @@ play-grunt
 ==========
 
 Sample of a Grunt.js build integrated into a Play project (in sbt)<br/>
-The JavaScript application resides in the folder "ui".br/>
-The JavaScript application is completely separated from the Play! application.br/>
+The JavaScript application resides in the folder "ui".<br/>
+The JavaScript application is completely separated from the Play! application.<br/>
 It is possible to build the JavaScript application separately.
 
 
